@@ -1,4 +1,4 @@
-# Rainfall Prediction App
+# Rainfall Prediction model
 
 This is a Flask-based web application that predicts the likelihood of rainfall using a pre-trained Random Forest machine learning model.
 
